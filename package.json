@@ -1,0 +1,20 @@
+{
+  "name": "js-datatime-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4",
+    "mini-css-extract-plugin": "^2.9.1",
+    "css-loader": "^7.1.2",
+    "terser-webpack-plugin": "^5.3.10",
+    "css-minimizer-webpack-plugin": "^7.0.0"
+  }
+}
